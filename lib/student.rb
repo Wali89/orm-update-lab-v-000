@@ -27,4 +27,9 @@ class Student
 
     DB[:conn].execute(sql)
   end
+
+  def self.create
+
+  end
+
 end
